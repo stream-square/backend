@@ -1,0 +1,12 @@
+programs:
+  - name: zBTC
+    address: 7emujtn93VrNuLZDaCGctMDFKFbrUrYkhCat4BoXNqMS
+  - name: Meme
+    address: HacjdanHFDsEKjDjNPFMcQzbZSvXG4A8UyPr1qhe52kB
+# spl-token create-token
+# spl-token create-account HacjdanHFDsEKjDjNPFMcQzbZSvXG4A8UyPr1qhe52kB
+# spl-token create-account 7emujtn93VrNuLZDaCGctMDFKFbrUrYkhCat4BoXNqMS
+# spl-token address --verbose --token HacjdanHFDsEKjDjNPFMcQzbZSvXG4A8UyPr1qhe52kB --owner GPFCdFgSvEBRoU5RGTcAdxKztzDwho48KP3CrneNtyo8
+# spl-token address --verbose --token 7emujtn93VrNuLZDaCGctMDFKFbrUrYkhCat4BoXNqMS --owner GPFCdFgSvEBRoU5RGTcAdxKztzDwho48KP3CrneNtyo8
+# spl-token mint HacjdanHFDsEKjDjNPFMcQzbZSvXG4A8UyPr1qhe52kB 100000000000
+# spl-token mint 7emujtn93VrNuLZDaCGctMDFKFbrUrYkhCat4BoXNqMS 100000000000
